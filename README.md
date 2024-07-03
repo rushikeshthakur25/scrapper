@@ -4,16 +4,11 @@
 
 ## Overview
 
-Describe briefly what your project is about and its purpose. Include key features and functionalities.
+Explain how to use your web scraper tool. Provide examples or screenshots if applicable. Include any important setup steps or configurations.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+Enter the URL of the website you want to scrape.
+Click on the "Scrape" button to initiate the scraping process.
+View the scraped data displayed on the right side of the interface.
 
 ## Installation
 
@@ -28,3 +23,5 @@ cd your-repository
 
 # Install dependencies
 npm install
+This tool is for educational purposes only. Use responsibly.
+
